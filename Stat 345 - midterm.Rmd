@@ -210,7 +210,7 @@ rating_dist <- data %>%
 
 rating_dist
 
-## i am editing this for the sole purpose of adding it to my repository
+## i am editing this for the sole purpose of adding it to my repository ugh
    
 ```
 
